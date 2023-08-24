@@ -3,7 +3,7 @@ Example for VisualFBEditor
 
 MDIScintilla like text editor based on the Scintilla project.
 
-This project needs to rely on MDINotepad
+This project needs to rely on MDINotepad and MDIScintilla
 
 ![image](https://user-images.githubusercontent.com/35757455/194972207-efa98011-520c-4ab0-82c2-ae5020062164.png)
 
